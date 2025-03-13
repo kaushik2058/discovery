@@ -19,7 +19,13 @@ https://windnew.koskoros.ru/wind/premium324/mono.m3u8?|Referer=https://newembedp
 
 
 #EXTINF:-1 tvg-id="RANAPK33" tvg-name="Discovery Science" tvg-type="RANAPKX73" group-title="" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png", Discovery Science
-https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=discovery_science
+https://zekonew.iosplayer.ru/zeko/premium294/mono.m3u8?|Referer=https://newembedplay.xyz&Origin=https://newembedplay.xyz&User-Agent=Mozilla/5.0 (Linux; Android 13; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="RANAPK33" tvg-name="Discovery Turbo" tvg-type="RANAPKX73" group-title="" tvg-language="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png", Discovery Turbo
-https://fifabd.site/TOFx25/RANAPK/play.m3u8?id=discovery_turbo
+
+
+#EXTINF:-1 tvg-id="RANAPK33" tvg-name="Discovery Family" tvg-type="RANAPKX73" group-title="" tvg-language="BANGLADESH" tvg-logo="https://iconape.com/wp-content/files/tb/285240/png/285240.png", Discovery Family
+https://dokko1new.iosplayer.ru/dokko1/premium657/mono.m3u8?|Referer=https://newembedplay.xyz&Origin=https://newembedplay.xyz&User-Agent=Mozilla/5.0 (Linux; Android 13; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
+
+
+EXTINF:-1 tvg-id="RANAPK33" tvg-name="Foid Network " tvg-type="RANAPKX73" group-title="" tvg-language="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Food Network 
+https://zekonew.iosplayer.ru/zeko/premium384/mono.m3u8?|Referer=https://newembedplay.xyz&Origin=https://newembedplay.xyz&User-Agent=Mozilla/5.0 (Linux; Android 13; 22101316I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.105 Mobile Safari/537.36
